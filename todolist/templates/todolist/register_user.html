@@ -1,11 +1,8 @@
-<!DOCTYPE html>
-<html lang="en">
-<head>
-    <meta charset="UTF-8">
-    <title>Registro</title>
-</head>
-<body>
-    <div class="container">
+{% extends 'todolist/menu.html' %}
+{% block title %} Registrarse {% endblock %}
+
+{% block content %}
+    <div class="container" style="margin-top:3rem">
         <div class="content">
             <h1> Registro </h1>
             <form method="post" >
@@ -26,9 +23,8 @@
                     <label for="mail">Mail</label>
                     <input type="email" class="form-control" id="mail" name="mail" required>
                 </div>
-                <button type="submit">Crear usuario</button>
+                <button type="submit" class="btn btn-primary">Crear usuario</button>
             </form>
         </div>
     </div>
-</body>
-</html>
+{% endblock %}
