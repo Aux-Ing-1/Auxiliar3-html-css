@@ -8,25 +8,25 @@
            <h1> Registro </h1>
            <form method="post">
                {% csrf_token %}
-               <div class="form-group">
+               <div>
                    <label for="nombre_usuario">Nombre</label>
-                   <input type="text" class="form-control" id=nombre_usuario name="nombre" required>
+                   <input type="text" id=nombre_usuario name="nombre" required>
                </div>
 
-               <div class="form-group">
+               <div>
                    <label for="contraseña">Contraseña</label>
-                   <input type="password" class="form-control" id="contraseña" name="contraseña" required>
+                   <input type="password" id="contraseña" name="contraseña" required>
                </div>
 
-                <div class="form-group">
+                <div>
                    <label for="apodo">Apodo</label>
-                   <input type="text" class="form-control" id="apodo" name="apodo" required>
+                   <input type="text" id="apodo" name="apodo" required>
                 </div>
 
                <div>
                    <label for="pronombre">Pronombre</label>
-                   <select id="pronombre" class="form-control" name="pronombre" required>
-                       <option class="disabled" value="">Elige un pronombre</option>
+                   <select id="pronombre" name="pronombre" required>
+                       <option value="">Elige un pronombre</option>
                        <option value="El">El</option>
                        <option value="La">La</option>
                        <option value="Le">Le</option>
@@ -34,9 +34,9 @@
                    </select>
                </div>
 
-                <div class="form-group">
+                <div>
                     <label for="mail">Mail</label>
-                    <input type="email" class="form-control" id="mail" name="mail" required>
+                    <input type="email" id="mail" name="mail" required>
                 </div>
                 <button type="submit">Crear usuario</button>
            </form>
