@@ -2,7 +2,7 @@
 
 En esta actividad deben ✨embellecer✨ la página de login (o la de register) del proyecto usando las propiedades de CSS que gusten (la idea es que no utilicen Bootstrap, al menos para esta actividad, para sus proyectos recomendamos fuertemente Bootstrap u otro framework).
 
-Esta vez no hay instrucciones establecidas, solo usen su creatividad para obtener un resultado similar a este:
+Esta vez no hay instrucciones establecidas, solo usen su creatividad para obtener un resultado similar a este para la página de registro del protecto:
 
 ![image](https://user-images.githubusercontent.com/62437376/163250617-d60d07e6-7b5d-4503-94cc-599970bc4950.png)
 
