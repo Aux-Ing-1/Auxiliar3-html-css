@@ -24,6 +24,6 @@ Estas líneas deben ir dentro del `<head>...</head>` de su archivo .html. Luego 
 
 ### Enlaces
 - [Selectores de CSS](https://www.w3schools.com/cssref/css_selectors.asp)
-- [CSS Diner](flukeout.github.io/): Para practicar el uso de selectores.
+- [CSS Diner](https://flukeout.github.io/): Para practicar el uso de selectores.
 - [Flexbox Froggy](https://flexboxfroggy.com/): Para practicar el uso de `display: flex;`.
 - [Bootstrap](https://getbootstrap.com/)
