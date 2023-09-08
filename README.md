@@ -13,6 +13,20 @@ Solo deben trabajar con el archivo `register.html` que está en `todoapp/templat
 
 Algunos recordatorios:
 
+### Correr la aplicación (para realizar la actividad)
+1. `git clone https://github.com/Aux-Ing-1/Auxiliar4-html-css.git`
+2. `cd Auxiliar4-html-css.git`
+3. `python -m venv env` crean un ambiente virtual.
+4. Activamos el ambiente virtual
+   A) En linux `source env/bin/activate `
+   B) En Windows `env/Scripts/activate `
+5. `pip install --upgrade pip`
+6. `pip install -r requirements.txt`
+7. No vamos a hacer las migraciones, por lo que vamos a ignorar el mensaje al hacer el paso 8.
+8. `python manage.py runserver`
+9. Luego en el navegador se dirigen a http://localhost:8000/register
+10. Comienzan a editar el archivo register.html
+
 ### Linkear hoja de estilos
 ```
 <!-- Estilos locales: -->
