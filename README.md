@@ -8,7 +8,8 @@ Esta vez no hay instrucciones establecidas, solo usen su creatividad para obtene
 
 Solo deben trabajar con el archivo `register.html` que está en `todoapp/templates/todoapp/`, y con `style.css` que está en `todoapp/static/todoapp/`
 
-# (Se recomienda fuertemente ver el video de la auxiliar para entender cómo partir)
+> (Se recomienda fuertemente ver el video de la auxiliar para entender cómo partir)
+> https://youtu.be/kku0yczjW-4
 
 Algunos recordatorios:
 
