@@ -1,4 +1,4 @@
-# Auxiliar 4: HTML y CSS
+# Auxiliar 3: HTML y CSS
 
 En esta actividad deben ✨embellecer✨ la página de login (o la de register) del proyecto usando las propiedades de CSS que gusten (la idea es que no utilicen Bootstrap, al menos para esta actividad, para sus proyectos recomendamos fuertemente Bootstrap u otro framework).
 
